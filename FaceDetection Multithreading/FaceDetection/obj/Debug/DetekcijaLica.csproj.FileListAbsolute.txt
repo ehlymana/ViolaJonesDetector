@@ -1,0 +1,52 @@
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\DetekcijaLica.csprojResolveAssemblyReference.cache
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\FaceDetection.Form1.resources
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\DetekcijaLica.csproj.GenerateResource.cache
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\DetekcijaLica.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\bin\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\bin\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\FaceDetection\FaceDetection\obj\Debug\DetekcijaLica.csproj.CopyComplete
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\bin\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\bin\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\DetekcijaLica.csprojResolveAssemblyReference.cache
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\FaceDetection.Form1.resources
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\DetekcijaLica.csproj.GenerateResource.cache
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\DetekcijaLica.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\DetekcijaLica.csproj.CopyComplete
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\FaceDetection - Copy\FaceDetection\obj\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\bin\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\bin\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csprojResolveAssemblyReference.cache
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.Form1.resources
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csproj.GenerateResource.cache
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csproj.CopyComplete
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csprojResolveAssemblyReference.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.Form1.resources
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csproj.GenerateResource.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\DetekcijaLica.csproj.CopyComplete
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.exe
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Debug\FaceDetection.pdb

@@ -1,0 +1,13 @@
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Release\FaceDetection.exe.config
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Release\FaceDetection.exe
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Release\FaceDetection.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Release\ViolaJones.dll
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\bin\Release\ViolaJones.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\DetekcijaLica.csprojResolveAssemblyReference.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\FaceDetection.Form1.resources
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\FaceDetection.Properties.Resources.resources
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\DetekcijaLica.csproj.GenerateResource.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\DetekcijaLica.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\DetekcijaLica.csproj.CopyComplete
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\FaceDetection.exe
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\FaceDetection\obj\Release\FaceDetection.pdb

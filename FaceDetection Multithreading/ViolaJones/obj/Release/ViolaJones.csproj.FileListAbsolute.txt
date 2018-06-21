@@ -1,0 +1,6 @@
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\ViolaJones\bin\Release\ViolaJones.dll
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\ViolaJones\bin\Release\ViolaJones.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\ViolaJones\obj\Release\ViolaJones.csprojResolveAssemblyReference.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\ViolaJones\obj\Release\ViolaJones.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\ViolaJones\obj\Release\ViolaJones.dll
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection Multithreading\ViolaJones\obj\Release\ViolaJones.pdb

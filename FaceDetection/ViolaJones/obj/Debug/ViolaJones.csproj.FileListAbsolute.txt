@@ -1,0 +1,14 @@
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\bin\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\bin\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\obj\Debug\ViolaJones.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\obj\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\obj\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\bin\Debug\ViolaJones.dll.CodeAnalysisLog.xml
+C:\Users\Emsel\Desktop\FaceDetection\ViolaJones\bin\Debug\ViolaJones.dll.lastcodeanalysissucceeded
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\bin\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\bin\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\obj\Debug\ViolaJones.csproj.CoreCompileInputs.cache
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\obj\Debug\ViolaJones.dll
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\obj\Debug\ViolaJones.pdb
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\bin\Debug\ViolaJones.dll.CodeAnalysisLog.xml
+C:\Users\Emsel\Desktop\Diplomski\FaceDetection\ViolaJones\bin\Debug\ViolaJones.dll.lastcodeanalysissucceeded
