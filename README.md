@@ -21,12 +21,12 @@ Pokretanjem *FaceDetection.exe* file-a koji se nalazi u folderu *FaceDetection M
 
 ## Dodatne informacije o detektoru
 
-Sve akcije vrše se isključivo nad **.jpg** slikama.
-Detektor može vršiti detekciju lica koja su u frontalnoj poziciji, bez rotacije.
-Na detekciju ne utječu ni osvjetljenje, ni nijanse boja slike.
-Najmanja veličina za vršenje detekcije je 24x24 piksela.
-Kriterij za uspješnost je 90% (9 pozitivnih i 1 negativna povratna informacija).
-Za utvrđivanje postojanja lica korištene su 4 vrste Haar-karakteristika:
+- Sve akcije vrše se isključivo nad **.jpg** slikama.
+- Detektor može vršiti detekciju lica koja su u frontalnoj poziciji, bez rotacije.
+- Na detekciju ne utječu ni osvjetljenje, ni nijanse boja slike.
+- Najmanja veličina za vršenje detekcije je 24x24 piksela.
+- Kriterij za uspješnost je 90% (9 pozitivnih i 1 negativna povratna informacija).
+- Za utvrđivanje postojanja lica korištene su 4 vrste Haar-karakteristika:
 1. Karakteristika nosa;
 2. Karakteristika obrve;
 3. Karakteristika oka;
