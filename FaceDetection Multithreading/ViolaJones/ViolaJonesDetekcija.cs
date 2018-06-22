@@ -57,7 +57,7 @@ namespace DetekcijaLica
             Parallel.ForEach(lokacijeSlika, (lokacija) =>
             //foreach(string lokacija in lokacijeSlika)
            {
-               slike.Add(new Bitmap(lokacija));
+               if (lokacija.Contains(".jpg")) slike.Add(new Bitmap(lokacija));
            });
             #endregion
             #region Pretvaranje RGB Slika u Crno-Bijele Slike
@@ -187,7 +187,7 @@ namespace DetekcijaLica
             List<Bitmap> slike = new List<Bitmap>();
             Parallel.ForEach(lokacijeSlika, (lokacija) =>
             {
-                slike.Add(new Bitmap(lokacija));
+                if (lokacija.Contains(".jpg")) slike.Add(new Bitmap(lokacija));
             });
             #endregion
             #region Pretvaranje RGB Slika u Crno-Bijele Slike
@@ -498,7 +498,7 @@ namespace DetekcijaLica
             //Parallel.ForEach(lokacijeSlika, (lokacija) =>
             foreach (string lokacija in lokacijeSlika)
            {
-               slike.Add(new Bitmap(lokacija));
+                if (lokacija.Contains(".jpg")) slike.Add(new Bitmap(lokacija));
            }//);
             #endregion
             StreamWriter file = File.CreateText(Directory.GetCurrentDirectory()+"/rezultati.txt");

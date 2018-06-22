@@ -53,7 +53,7 @@ namespace DetekcijaLica
             List<Bitmap> slike = new List<Bitmap>();
             foreach (string lokacija in lokacijeSlika)
             {
-                slike.Add(new Bitmap(lokacija));
+                if (lokacija.Contains(".jpg")) slike.Add(new Bitmap(lokacija));
             }
             #endregion
             progres.Minimum = 1;
@@ -154,7 +154,7 @@ namespace DetekcijaLica
             List<Bitmap> slike = new List<Bitmap>();
             foreach (string lokacija in lokacijeSlika)
             {
-                slike.Add(new Bitmap(lokacija));
+                if (lokacija.Contains(".jpg")) slike.Add(new Bitmap(lokacija));
             }
             #endregion
             progres.Minimum = 1;
@@ -385,7 +385,7 @@ namespace DetekcijaLica
             List<Bitmap> slike = new List<Bitmap>();
             foreach (string lokacija in lokacijeSlika)
             {
-                slike.Add(new Bitmap(lokacija));
+                if (lokacija.Contains(".jpg")) slike.Add(new Bitmap(lokacija));
             }
             #endregion
             progres1.Minimum = 1;

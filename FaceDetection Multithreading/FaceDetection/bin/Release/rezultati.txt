@@ -1,0 +1,201 @@
+Broj slika: 100
+Slika: C:\Users\Emsel\Desktop\Test\001.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\002.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\003.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\004.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\005.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\006.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\007.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\008.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\009.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\010.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\011.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\012.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\013.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\014.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\015.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\016.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\017.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\018.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\019.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\020.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\021.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\022.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\023.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\024.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\025.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\026.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\027.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\028.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\029.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\030.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\031.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\032.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\033.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\034.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\035.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\036.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\037.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\038.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\039.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\040.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\041.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\042.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\043.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\044.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\045.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\046.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\047.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\048.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\049.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\050.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\desktop.ini Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zafarullah_Khan_Jamali_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zafarullah_Khan_Jamali_0002.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zahir_Shah_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zaini_Abdullah_0001.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zakia_Hakki_0001.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zalmay_Khalilzad_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zarai_Toledo_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zarai_Toledo_0002.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zara_Akhmadova_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zavad_Zarif_0001.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zdravko_Mucic_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zeljko_Rebraca_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zelma_Novelo_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zeng_Qinghong_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Wenkang_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Wenkang_0002.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Yimou_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Ziyi_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Ziyi_0002.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Ziyi_0003.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhang_Ziyi_0004.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhong_Nanshan_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0002.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0003.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0004.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0005.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0006.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0007.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0008.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zhu_Rongji_0009.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zico_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zico_0002.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zico_0003.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zinedine_Zidane_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zinedine_Zidane_0002.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zinedine_Zidane_0003.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zinedine_Zidane_0004.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zinedine_Zidane_0005.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zinedine_Zidane_0006.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Ziwang_Xu_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zoe_Ball_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zoran_Djindjic_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zoran_Djindjic_0002.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zoran_Djindjic_0003.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zoran_Djindjic_0004.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zulfiqar_Ahmed_0001.jpg Rezultat: Pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zumrati_Juma_0001.jpg Rezultat: Nije pronađeno lice
+
+Slika: C:\Users\Emsel\Desktop\Test\Zurab_Tsereteli_0001.jpg Rezultat: Nije pronađeno lice
+
