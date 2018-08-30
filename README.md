@@ -1,35 +1,37 @@
-# ViolaJonesDetektor
+# Viola-Jones Detector
 
-Aplikacija za detekciju lica korištenjem Viola-Jones algoritma.
+An app used for detecting faces using the Viola-Jones algorithm.
 
-## Pokretanje jednonitnog detektora
+## Executing the single-threaded version of the detector
 
-Pokretanjem *FaceDetection.exe* file-a koji se nalazi u folderu *FaceDetection\FaceDetection\bin\Release*
+By executing the *FaceDetection.exe* file located in *FaceDetection\FaceDetection\bin\Release* folder.
 
-## Pokretanje višenitnog detektora
+## Executing the multi-threaded version of the detector
 
-Pokretanjem *FaceDetection.exe* file-a koji se nalazi u folderu *FaceDetection Multithreading\FaceDetection\bin\Release*
+By executing the *FaceDetection.exe* file located in *FaceDetection Multithreading\FaceDetection\bin\Release* folder.
 
-## Mogućnosti detektora
+## Attributes of the detector
 
-1. Vršenje treninga detektora na osnovu slika koja predstavljaju lica;
-2. Vršenje treninga detektora na osnovu slika koja ne predstavljaju lica;
-3. Vršenje detekcije lica na jednoj slici;
-4. Vršenje detekcije lica na više slika;
-5. Poboljšavanje tačnosti detektora na osnovu rezultata detekcije lica na jednoj slici;
-6. Prikaz statističkih podataka o detekciji.
+1. Detector training on images of faces;
+2. Detector training on non-face images;
+3. Face detection on a single image;
+4. Face detection on multiple images;
+5. Accuracy improvement based on the results of face detection on a single image;
+6. Displaying statistical data.
 
-## Dodatne informacije o detektoru
+## Additional information
 
-- Sve akcije vrše se isključivo nad **.jpg** slikama.
-- Detektor može vršiti detekciju lica koja su u frontalnoj poziciji, bez rotacije.
-- Na detekciju ne utječu ni osvjetljenje, ni nijanse boja slike.
-- Najmanja veličina za vršenje detekcije je 24x24 piksela.
-- Kriterij za uspješnost je 90% (9 pozitivnih i 1 negativna povratna informacija).
-- Za utvrđivanje postojanja lica korištene su 4 vrste Haar-karakteristika:
-1. Karakteristika nosa;
-2. Karakteristika obrve;
-3. Karakteristika oka;
-4. Karakteristika okvira lica.
+- All actions are executed only on **.jpg** images.
+- Detector can detect faces only if they are in frontal position, and if they are not rotated.
+- Brightness or hue have no importance in the detection process.
+- The images used for detection need to be at least 24x24 px in size.
+- Success criterium is 90% (9 positive and 1 negative detection).
+- 4 types of Haar-characteristics are used to determine whether a face exists in the image or not:
+1. Nose characteristic;
+2. Eyebrow characteristic;
+3. Eye characteristic;
+4. Face frame characteristic.
 
-*ETF Sarajevo, 2018.*
+*Faculty of Electrical Engineering*
+*University of Sarajevo*
+*2018.*
